@@ -1,7 +1,7 @@
 ---
 share: TRUE
 title: "Twitter"
-permalink: /social media/
+permalink: /socials/
 ---
 up::
 tags:: #twitter #socialmedia
